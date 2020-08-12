@@ -87,6 +87,8 @@ If your track is not listed, please check for updates later as all track chairs 
 - VizSec
 - VISAP
 - Short papers
+- TVCG papers
+- SIGGRAPH papers
 
 **Optional:**
 - InfoVis Papers
