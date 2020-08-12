@@ -87,6 +87,8 @@ If your track is not listed, please check for updates later as all track chairs 
 - VizSec
 - VISAP
 - Short papers
+- TVCG papers
+- SIGGRAPH papers
 
 **Optional:**
 - InfoVis Papers
@@ -123,7 +125,7 @@ Please **make sure that your video adheres to these specifications otherwise it 
 
 ## Helpful links
 
-**Video Creation: **
+**Video Creation:**
 - Camtasia: https://www.techsmith.com/video-editor.html
 - OpenShot: https://www.openshot.org 
 - Adobe Premiere:  https://www.adobe.com/ca/products/premiere.html	
