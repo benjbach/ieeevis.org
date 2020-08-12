@@ -87,6 +87,8 @@ If your track is not listed, please check for updates later as all track chairs 
 - VizSec
 - VISAP
 - Short papers
+- TVCG papers
+- SIGGRAPH papers
 
 **Optional:**
 - InfoVis Papers
@@ -94,7 +96,7 @@ If your track is not listed, please check for updates later as all track chairs 
 - SciVis Contest
 - Posters
 
-**No video-previews:**
+**No Video-Previews:**
 - Tutorials
 - VAST Challenge
 
@@ -123,13 +125,13 @@ Please **make sure that your video adheres to these specifications otherwise it 
 
 ## Helpful links
 
-**Video Creation: **
+**Video Creation:**
 - Camtasia: https://www.techsmith.com/video-editor.html
 - OpenShot: https://www.openshot.org 
 - Adobe Premiere:  https://www.adobe.com/ca/products/premiere.html	
 - iMovie: https://www.apple.com/imovie/
 
-**Automated subtitles / captions:**
+**Automated Subtitles / Captions:**
 - YouTube: https://support.google.com/youtube/answer/6373554 
 - Make sure you manually correct the generated subtitles for errors. 
 
@@ -147,5 +149,3 @@ Fast Forward and Video Previews Chairs
 - Junpeng Wang, Visa Research (SciVis)
 - Benjamin Bach, University of Edinburgh (InfoVis)
 - Charles Perin, University of Victoria (InfoVis)
-
-
